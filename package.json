@@ -1,0 +1,12 @@
+{
+  "name": "net-codec-testmetest",
+  "version": "1.0.0",
+  "description": "utility library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo ok"
+  },
+  "keywords": [],
+  "author": "newtestnewdont",
+  "license": "MIT"
+}
